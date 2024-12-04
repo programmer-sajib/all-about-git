@@ -20,6 +20,15 @@
 2. git commit -m "commit msg"
 3.git push -u origin master
 
+
+
+
+**Git Necessary commands**
+1. git branch => for all listed branches.
+2. git branch -M (branch name) => for swap branches.
+3. git status => for status of repository changes.
+
+
 **Windows credential for all signed in accounts**
 
 
