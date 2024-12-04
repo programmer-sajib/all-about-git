@@ -21,3 +21,6 @@
 3.git push -u origin master
 
 **Windows credential for all signed in accounts**
+
+
+1. Try git fetch so that your local repository gets all the new info from Github. It just takes the information about new branches and no actual code. After that, the git checkout should work fine.
