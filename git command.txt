@@ -1,0 +1,23 @@
+**GitHub Accounts**
+
+1. email: chengchiang1001@gmail.com  || password: @#&MeTa_SajiB-007&#@14022001
+2. email: yourdebor@gmail.com || password: @#&MeTa_SajiB-007&#@14022001
+
+
+**New git upload command**
+--------------------------
+1. git init
+2. git add README.md / git add .   ||**add all files to the staging area**
+3. git commit -m "commit msg"
+4. git remote add origin https://github.com/programmer-sajib/linkOfRepo
+5. git push -u origin master
+
+
+
+**Existing git upload command**
+-------------------------------
+1. git add .
+2. git commit -m "commit msg"
+3.git push -u origin master
+
+**Windows credential for all signed in accounts**
